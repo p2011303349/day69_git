@@ -5,6 +5,8 @@ package com.qianfeng.test;
  */
 public class App {
 
-
+    public static void main(String[] args) {
+        System.out.println("娱乐一整年");
+    }
 
 }
